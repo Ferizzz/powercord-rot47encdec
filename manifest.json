@@ -1,8 +1,8 @@
 {
-	"name": "Rot13",
+	"name": "ROT47",
 	"version": "1.0.0",
-	"description": "Encodes and decodes ROT13 text",
+	"description": "Encodes and decodes ROT47 text",
 	"author": "Feris",
 	"license": "MIT",
-	"repo": "https://github.com/Ferizzz/powercord-rot13encdec"
+	"repo": "https://github.com/Ferizzz/powercord-rot47encdec"
 }
